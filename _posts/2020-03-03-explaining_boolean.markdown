@@ -1,9 +1,9 @@
 ---
 layout: post
-title:      "Explaining Boolean "
-date:       2020-03-03 23:07:27 +0000
+title:      "CLI Project "
+date:       2020-03-03 18:07:28 -0500
 permalink:  explaining_boolean
 ---
 
 
-Boolean in coding normally gives us either a true value or a false value and we can use this to our advantage in various different ways. We could set various conditions within a if statement using an "or", or "and" operator to link various conditions together. We could program it in such a way that if the condition is not met, which will be returned as a false in coding, we could then say to do a certain action, for example quit the program or keep asking the user for a proper input. Boolean helps it make it simple because it's true or false, and we could use that to our advantage when we are programming to set up if statements and or see what our code is returning value is. It really helps out in the sense that you will either get a true or false as a return value and you have to figure out whether you want your program to move on when it's true or false. It is a really neat design to help programmers. 
+The CLI Project further enhanced my understanding of how to create an app and how things come together for users to use. It might be perfect yet was a good way to get started to learn how we would grab information from different websites and use that to create our own app. It was also very neat that I could add things in, for example adding comments of the user who is using the app and adding it into the existing database and present it the next time the selection pops up again. It was very interesting to see how everything that I've learned to this point worked together and how it helped create a mini project app that people could actually use if they wanted to. All in all this was a great chance to apply the knowledge that we have learned and demonstrate our abilities. 
