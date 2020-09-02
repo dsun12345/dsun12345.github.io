@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS Project"
-date:       2020-09-01 22:15:17 +0000
+date:       2020-09-01 18:15:18 -0400
 permalink:  js_project
 ---
 
@@ -63,6 +63,10 @@ My HTML for the render card looked like this.
 ```
 
 so that's why I had to then do card.querySelector(".card-title").textContent to actually update the Title of the song during my edit function. I had a lot of fun just playing around with debugger and exploring how to grab the information I want and then utilizing it in the way that I had envisioned. I also found it really fun to have event listeners listening for clicks and a certain action that the user puts on the webpage and then responding. That was very fun to see how all that worked out and how you can listen to multiple events at once was very interesting. 
+
+One challenge I had was understanding the idea of promises. I was able to find images online that helped me understand the idea of promise for example:
+![](https://mdn.mozillademos.org/files/15911/promises.png)
+It was then did I understood that this allows the asynchronous methods to return values like synchronous methods. The asynchronous method, instead of immediately returning the value, returns a promise to supply the value for the future. Promises could also be in three states (pending, fulfilled, rejected) and we can use these to our advantages per the image that I have provided to call functions on it to either call an error or actions. This was a very hard concept to understand and is definitely an important concept that we needed to learn about. 
 
 This project was very challenging in the aspect that I think we had to connect front end and backend using Javascript and Rails. It was a very cool collaboration effort and now I see how the webpage can update things first and then decide whether they want to pass that data/save that data to the backend later. This project overall helped me learned a lot more Javascript and has got me started on the question whether I want to work on backend or frontend. That will be the question to answer! 
 
